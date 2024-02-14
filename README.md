@@ -1,6 +1,6 @@
 # Catalog of approximate LUTs for [pyALS](https://github.com/SalvatoreBarone/pyALS) and [pyALS-RF](https://github.com/SalvatoreBarone/pyALS-RF)
 
-In order to obtain the catalog, you must run 
+In order to obtain the catalog, you must install ```sqlite3'''. Then, run 
 ```
 ./import.sh
 ```
